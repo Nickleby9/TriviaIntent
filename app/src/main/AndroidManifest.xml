@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".FirstQuestion" />
         <activity android:name=".SecondQuestion" />
-        <activity android:name=".ThirdQuestion"></activity>
+        <activity android:name=".ThirdQuestion" />
+        <activity android:name=".LastScreen"></activity>
     </application>
 
 </manifest>
